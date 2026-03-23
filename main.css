@@ -244,7 +244,7 @@ section { padding-block: 4rem; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url('../assets/img/hatum_killa_hero_industrial_engineering_1774244720256.png');
+  background-image: url('hatum_killa_hero_industrial_engineering_1774244720256.png');
   background-size: cover;
   background-position: center;
   opacity: .28;
